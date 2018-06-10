@@ -11,3 +11,7 @@ spring5 spring boot2 demo project
 ## dependencies
 * spring boot v2.0.2
  
+## tasks
+- add spring controller MyController with method hello
+- access the MyController from the application via spring context getBean method and execute method on controller
+  - not using the constructor
