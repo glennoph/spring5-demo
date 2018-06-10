@@ -8,3 +8,5 @@ spring5 spring boot2 demo project
 - name: spring5-demo
 - package net.gospring
 - dependencies
+ * spring boot v2
+ 
