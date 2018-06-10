@@ -3,10 +3,10 @@ spring5 spring boot2 demo project
 
 - ide intellij
 - java 8
-- start with http://start.spring.io spring initializr
+## spring initializr http://start.spring.io 
 - type maven
 - name: spring5-demo
 - package net.gospring
-- dependencies
- * spring boot v2
+## dependencies
+* spring boot v2
  
