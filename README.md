@@ -11,7 +11,7 @@ spring5 spring boot2 demo project
 ## dependencies
 * spring boot v2.0.2
  
-## tasks
+## tasks - DI: Dependency Injection via ctor
 - add spring controller MyController with method hello
 - access the MyController from the application via spring context getBean method and execute method on controller
-  - not using the constructor
+  - not using the constructor in appl code
